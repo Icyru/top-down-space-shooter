@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "99046aef-f9c0-4955-b47c-d95f6aca9d7a",
+            "Value": {
+                "id": "91287fbc-5e8e-4e82-b7e8-a3ac755f7da8",
+                "resourcePath": "objects\\object_superlaser\\object_superlaser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9fc73259-ee31-4e1d-9043-32eb21f6ac2c",
             "Value": {
                 "id": "aa699644-2127-4b89-a779-6af358bcae14",
@@ -204,6 +212,14 @@
                 "id": "100da072-c61c-488e-8594-eb22c1ee73c1",
                 "resourcePath": "views\\dd8ae81e-fb1e-4428-a6a4-b829af433a40.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e4e5b54a-f8bf-4b67-b56f-6f5b2725a51a",
+            "Value": {
+                "id": "5601500e-8731-4eb6-82d8-38ce437cc55a",
+                "resourcePath": "sprites\\sprite_superlaser\\sprite_superlaser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
