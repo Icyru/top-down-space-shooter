@@ -50,7 +50,11 @@ if mouse_check_button_released(mb_right)
 {
 	if canshoot=true
 	{
-	instance_create_layer(x,y-10,"Instances",object_chargebeam)
+	chargeshot=instance_create_layer(x,y-10,"Instances",object_chargebeam)
+	chargeshot.direction=90
+	chargeshot.speed=10
+	chargeshot.image_xscale=0.01*chargebeam
+	chargeshot.image_yscale=0.01*chargebeam
 	chargebeam=0
 	chargebeamvalue=0
 	playerheat=playerheat+20+chargebeam

@@ -1,0 +1,1 @@
+enemyhealth-=other.chargedmg

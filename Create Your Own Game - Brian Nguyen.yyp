@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "3753ef38-1e8f-468f-bc79-a361cb072e5a",
+            "Value": {
+                "id": "b58f52ad-9640-461e-adc8-e0dc1b1682d3",
+                "resourcePath": "objects\\object_enemyship\\object_enemyship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "40a59a1d-b85b-4e43-adff-9d67fcc39c67",
+            "Value": {
+                "id": "2eaaa7bf-1f2f-4cbf-b11e-a713b0e6268f",
+                "resourcePath": "sprites\\sprite_enemyexhaust\\sprite_enemyexhaust.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40bfb2bb-d6cb-43d5-a654-850d5e186129",
             "Value": {
                 "id": "695d6072-4441-47c3-9eae-12c384ee2405",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "dac7156a-e8c4-4d6c-8909-33ec9b010b13",
+            "Value": {
+                "id": "72c7c61c-697b-40ce-b2dc-bdb733752bf6",
+                "resourcePath": "sprites\\sprite_enemyship\\sprite_enemyship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc09d594-d5c4-45a3-a1c3-4e932b911a3f",
             "Value": {
                 "id": "708553dd-98f0-40e6-b801-9289a394a29d",
@@ -252,6 +276,14 @@
                 "id": "5601500e-8731-4eb6-82d8-38ce437cc55a",
                 "resourcePath": "sprites\\sprite_superlaser\\sprite_superlaser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea6068bd-2715-44ba-b804-9b4111b40bcb",
+            "Value": {
+                "id": "3ee8094e-708a-43bc-8df3-6ec6138a412d",
+                "resourcePath": "objects\\object_enemyexhaust\\object_enemyexhaust.yy",
+                "resourceType": "GMObject"
             }
         },
         {
