@@ -60,4 +60,12 @@ if mouse_check_button_released(mb_right)
 	playerheat=playerheat+20+chargebeam
 	}
 }
-	
+
+if gamestarttext = true
+{
+	textalphastart-=0.005
+}
+if textalphastart <= 0
+{
+	gamestarttext = false
+}

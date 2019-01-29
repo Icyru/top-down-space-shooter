@@ -1,2 +1,2 @@
-chargedmg=chargebeam/2
+chargedmg=chargebeam
 explosionsize=chargebeam/250

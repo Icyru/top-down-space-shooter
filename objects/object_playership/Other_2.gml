@@ -6,3 +6,4 @@ timeline_loop=true;
 playerheat=0
 canshoot=true
 repeat (140) instance_create_layer(random(1024),random(768),"Instances_space",object_star)
+gamestarttext=true
